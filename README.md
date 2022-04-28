@@ -1,5 +1,5 @@
 # simplePygameSnake
-A simple snake game made in pygame. The Base code is by [@HarpssB](https://github.com/HarpssB/simplePygameSnake). Additions by [@GeraldTM](https://github.com/GeraldTM)
+A simple snake game made in pygame. The Base code is by [@HarpssB](https://github.com/HarpssB/simplePygameSnake). Additions by [@GeraldTM](https://github.com/GeraldTM).
 
 ## What I Plan to Add:
  - Menu Screen
